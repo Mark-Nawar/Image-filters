@@ -1,2 +1,2 @@
 # Image-filters
-Implementing using C three popular Instgram filters.
+Implementing using C 4 popular Instgram filters.
